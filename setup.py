@@ -21,5 +21,5 @@ setup(
         'Programming Language :: Python',
     ],
     install_requires=[
-        'django-oscar>=0.4,<0.6',
+        'django-oscar>=0.4',
     ])
